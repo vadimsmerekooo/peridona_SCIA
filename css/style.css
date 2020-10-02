@@ -389,7 +389,7 @@ p {
 .news-header {
   display: flex;
 }
-.news-header h3 {
+.news-header h2 {
   margin: 0;
   color: #ffffff;
   font-family: "Rubik-Regular", sans-serif;
